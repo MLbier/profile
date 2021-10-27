@@ -1,0 +1,45 @@
+@import url(https://use.fontawesome.com/releases/v5.2.0/css/all.css);
+body {
+  color: rgb(61, 44, 141);
+  background: rgb(199, 190, 162);
+  font-family: "Libre franklin";
+  text-align: center;
+}
+
+h1 {
+  color:rgb(250, 238, 224);
+  font-size: xx-large;
+}
+
+h2{
+  color: rgb(219, 208, 192);
+  font-size: 30px;
+}
+
+h3 {
+  color: rgb(73, 255, 0);
+  font-size: 15px;
+  text-decoration: line-through;
+}
+img {
+  height: 200px;
+}
+
+p {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.container {
+  background-color: rgb(73, 255, 0);
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px 40px 90px 40px;
+  border-radius: 10px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: right;
+}
